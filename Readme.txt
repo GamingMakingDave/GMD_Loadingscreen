@@ -14,7 +14,7 @@ Thanks for buying the loading screen, I am confident that you can learn a lot fr
 You can find the wiki here: https://gmd-scripts.gitbook.io/gmd/
 
 If you have any problems you can also contact me in the Discord here: https://discord.gg/VVY6wrbCmR or 
-in the CFX forum here: https://forum.cfx.re/t/esx-free-gmd-loadingscreen-completely-adjustable-via-js-mp4-mp3-and-picture-support/4936170/20
+in the CFX forum here: https://forum.cfx.re/t/esx-free-gmd-loadingscreen-completely-adjustable-via-js-mp4-mp3-and-picture-support/4936170
 
 
 Own logos as well as MP4 Loadingmovies can be ordered with me these I Design you in such a way as you want to have them.
