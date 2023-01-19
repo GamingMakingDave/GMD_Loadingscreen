@@ -9,7 +9,7 @@ _________\//\\\\\\\\\\\\/__\/\\\_____________\/\\\_\/\\\\\\\\\\\\/___
 __________\////////////____\///______________\///__\////////////_____
 
 
-Thanks for buying the loading screen, I am confident that you can learn a lot from it and understand some of the ways. 
+Thanks for useing the loading screen, I am confident that you can learn a lot from it and understand some of the ways. 
 
 You can find the wiki here: https://gmd-scripts.gitbook.io/gmd/
 
