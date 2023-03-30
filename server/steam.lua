@@ -2,7 +2,7 @@ TriggerEvent('esx:getSharedObject', function(obj)
     ESX = obj
 end)
 
-local GMDLoadingscreenSteamAPI = "ABV" --steam_webApiKey from you server.dfg
+local GMDLoadingscreenSteamAPI = "ABV" --steam_webApiKey from you server.cfg
 
 
 AddEventHandler('playerConnecting', function(_, _, deferrals)
